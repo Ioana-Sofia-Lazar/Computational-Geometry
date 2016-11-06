@@ -1,7 +1,7 @@
 # Computational-Geometry
 
-*Author: Ioana Pascu
-Created: 06.11.2016*
+*Author: Ioana Pascu*
+*Created: 06.11.2016*
 
 Task
 ====
