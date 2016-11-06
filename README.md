@@ -1,21 +1,21 @@
 # Computational-Geometry
 
-*Author: Ioana Pascu*
+*Author: Ioana Pascu*   
 *Created: 06.11.2016*
 
 Task
 ====
 
-We are given 4 points in a certain order.
-a) Decide if they determine a convex quadrilateral.
-b) We are given a 5th point. Decide if it is in the convex hull of the 4 points.
+We are given 4 points in a certain order.  
+a) Decide if they determine a convex quadrilateral.  
+b) We are given a 5th point. Decide if it is in the convex hull of the 4 points.  
 
 
 Implemented solution
 ====================
 
-a) We check whether we only have right turns (using the orientation test). If so, our quadrilateral is convex.
-b) We check whether the 5th point is inside one of the 4 triangles the 4 points determine. If so, it is inside their convex hull.
+a) We check whether we only have right turns (using the orientation test). If so, our quadrilateral is convex.  
+b) We check whether the 5th point is inside one of the 4 triangles the 4 points determine. If so, it is inside their convex hull.  
 
 
 Use of variables/functions
